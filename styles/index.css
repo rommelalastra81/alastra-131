@@ -1,0 +1,27 @@
+* { 
+	font-family: 'Roboto', sans-serif;
+	font-size:15px;
+
+}
+
+.img-size {
+	margin-top:20px;
+	width: 300px;
+	height: auto;
+}
+
+/*.img-size-carousel {
+	margin-top:20px;
+	width: 900px;
+	height: auto;
+}*/
+
+/*.relativepos {
+	position: relative;
+}*/
+
+.form-size {
+	margin-top:20px;
+	width: 400px;
+	height: auto;
+}
