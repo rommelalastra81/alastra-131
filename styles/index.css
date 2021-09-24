@@ -25,3 +25,15 @@
 	width: 400px;
 	height: auto;
 }
+
+.bg-green {
+	background-color: #AFD275;
+}
+
+.bg-brown {
+	background-color: #7E685A;
+}
+
+.bg-lightbrown {
+	background-color: #C2B9B0;
+}
